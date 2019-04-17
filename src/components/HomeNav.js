@@ -1,11 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import Nav from 'react-bootstrap/Nav';
-import rugrattv from '../assets/rugrattv.png';
-import Container from 'react-bootstrap/Row';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Image from 'react-bootstrap/Image'
+
 
 const Styles = styled.div`
 font-family: KidsCorner-Regular;
@@ -67,18 +63,12 @@ const Color7 = styled.div `
   };
 }
 `
-const Tv = styled.div`
-padding-top: 150px;
-margin: 0 auto;
-display: block;
-`
-
 
 
 const HomeNav = () => {
     return ( 
     
-      <Container fluid>
+   
         <Styles>    
         <Nav className="justify-content-center" activeKey="/home">
     
@@ -135,10 +125,7 @@ const HomeNav = () => {
         </Nav.Item>
       </Nav>
       </Styles>
-      <Tv>
-      <Image src={rugrattv} fluid />
-      </Tv>
-    </Container>
+
    
      );
 }

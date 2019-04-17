@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import HomeNav from './HomeNav';
+import rugrattv from '../assets/rugrattv.png';
+import Image from 'react-bootstrap/Image'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
@@ -14,9 +16,16 @@ letter-spacing: 7.88px;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);
 `
 
+const Tv = styled.div`
+padding-top: 150px;
+margin: 0 auto;
+display: block;
+text-align: center;
+`
+
 
 export const Home = () => (
-<div style={{backgroundColor:'#8CE9FF', paddingBottom: 300}}>
+<div style={{backgroundColor:'#8CE9FF', paddingBottom: 200}}>
     <HomeTitle>
     <span style={{ color: '#F53320' }}>m</span>
     <span style={{ color: '#0653F9' }}>a</span>
@@ -43,6 +52,9 @@ export const Home = () => (
     <span style={{ color: '#26D606' }}>s</span>
     </HomeTitle>
     <HomeNav/>
+    <Tv>
+    <Image src={rugrattv} fluid />
+    </Tv>
     </div>
 
 
