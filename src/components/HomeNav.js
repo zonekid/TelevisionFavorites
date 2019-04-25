@@ -85,42 +85,42 @@ const HomeNav = () => {
    
         <Nav.Item>
             <Color3>
-          <Nav.Link eventKey="link-3">Martin</Nav.Link>
+          <Nav.Link eventKey="link-3" href="/martin">Martin</Nav.Link>
           </Color3>
         </Nav.Item>
         <Nav.Item>
             <Color4>
-          <Nav.Link eventKey="link-4">I Love Lucy</Nav.Link>
+          <Nav.Link eventKey="link-4" href="/lucy">I Love Lucy</Nav.Link>
           </Color4>
         </Nav.Item>
         <Nav.Item>
             <Color5>
-          <Nav.Link eventKey="link-5">The Wire</Nav.Link>
+          <Nav.Link eventKey="link-5" href="/wire">The Wire</Nav.Link>
           </Color5>
         </Nav.Item>
         <Nav.Item>
             <Color6>
-          <Nav.Link eventKey="link-6">Game of Thrones</Nav.Link>
+          <Nav.Link eventKey="link-6" href="/thrones">Game of Thrones</Nav.Link>
           </Color6>
         </Nav.Item>
         <Nav.Item>
             <Color7>
-          <Nav.Link eventKey="link-7">The Sopranos</Nav.Link>
+          <Nav.Link eventKey="link-7" href="/sopranos">The Sopranos</Nav.Link>
           </Color7>
         </Nav.Item>
         <Nav.Item>
             <Color1>
-          <Nav.Link eventKey="link-8">The Golden Girls</Nav.Link>
+          <Nav.Link eventKey="link-8 " href="/golden">The Golden Girls</Nav.Link>
           </Color1>
           </Nav.Item>
           <Nav.Item>
               <Color2>
-          <Nav.Link eventKey="link-9">The Fresh Prince</Nav.Link>
+          <Nav.Link eventKey="link-9" href="/prince">The Fresh Prince</Nav.Link>
           </Color2>
         </Nav.Item>
         <Nav.Item>
             <Color3>
-          <Nav.Link eventKey="link-10">The Twilight Zone</Nav.Link>
+          <Nav.Link eventKey="link-10" href="/twilight">The Twilight Zone</Nav.Link>
           </Color3>
         </Nav.Item>
       </Nav>

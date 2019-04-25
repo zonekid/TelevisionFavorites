@@ -23,6 +23,14 @@ display: block;
 text-align: center;
 `
 
+const Disclosure = styled.p`
+font-family: KidsCorner-Regular;
+font-size: 12px;
+letter-spacing: 7.88px;
+text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+color: #FFFFFF;
+padding-top: 50px;
+`
 
 export const Home = () => (
 <div style={{backgroundColor:'#8CE9FF', paddingBottom: 200}}>
@@ -55,6 +63,13 @@ export const Home = () => (
     <Tv>
     <Image src={rugrattv} fluid />
     </Tv>
+<Row>
+    <Col xl={{span: 2, offset:9}} lg={{span: 3, offset:7}} md={{offset:1}} >
+    <Disclosure>
+    API courtesy of https://www.themoviedb.org  All writing credits courtery of Complex Magazine  
+    </Disclosure>
+    </Col>
+</Row>
     </div>
 
 
