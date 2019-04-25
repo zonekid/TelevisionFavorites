@@ -2,7 +2,7 @@
   "name": "movie-favvorites",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zonekid.github.io/TelevisionFavorites/home",
+  "homepage": "http://zonekid.github.io/TelevisionFavorites",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
