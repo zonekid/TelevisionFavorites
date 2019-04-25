@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FavoriteShows/precache-manifest.71a0690bee9e06b645e00a655992886e.js"
+  "/TelevisionFavorites/precache-manifest.529a0fa4461db8c422ff0adebab68847.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/FavoriteShows/index.html", {
+workbox.routing.registerNavigationRoute("/TelevisionFavorites/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
