@@ -19,7 +19,8 @@ class App extends Component {
     return (
     <React.Fragment>
 <Container fluid>
-    <Router basename="/calendar">
+    <Router basename="/shows">
+    <li><Link to="/">Home</Link></li>
     <Switch>
     <Route exact path="/" component={Home}/>
     <Route path="/twin-peaks" component={TwinPeaks}/>
