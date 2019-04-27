@@ -19,7 +19,7 @@ class App extends Component {
     return (
     <React.Fragment>
 <Container fluid>
-    <Router basename="/shows">
+    <Router basename="/">
  
     <Switch>
     <Route exact path="/" component={Home}/>
