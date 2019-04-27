@@ -19,7 +19,7 @@ class App extends Component {
     return (
     <React.Fragment>
 <Container fluid>
-    <Router basename="/process.env.PUBLIC_URL">
+    <Router basename={process.env.PUBLIC_URL}>
  
     <Switch>
     <Route exact path="/" component={Home}/>
