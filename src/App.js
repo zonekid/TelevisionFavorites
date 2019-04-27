@@ -20,19 +20,18 @@ class App extends Component {
     <React.Fragment>
 <Container fluid>
     <Router basename={process.env.PUBLIC_URL}>
- 
     <Switch>
     <Route exact path="/" component={Home}/>
-    <Route path="/twin-peaks" component={TwinPeaks}/>
-    <Route path="/atlanta" component={Atlanta}/>
-    <Route path="/lucy" component={Lucy}/>
-    <Route path="/martin" component={Martin}/>
-    <Route path="/twilight" component={Twilight}/>
-    <Route path="/wire" component={Wire}/>
-    <Route path="/golden" component={Golden}/>
-    <Route path="/thrones" component={Thrones}/>
-    <Route path="/prince" component={Fresh}/>
-    <Route path="/sopranos" component={Sopranos}/>
+    <Route path="TelevisionFavorites/#/twin-peaks" component={TwinPeaks}/>
+    <Route path="TelevisionFavorites/#/atlanta" component={Atlanta}/>
+    <Route path="TelevisionFavorites/#/lucy" component={Lucy}/>
+    <Route path="TelevisionFavorites/#/martin" component={Martin}/>
+    <Route path="TelevisionFavorites/#/twilight" component={Twilight}/>
+    <Route path="TelevisionFavorites/#/wire" component={Wire}/>
+    <Route path="TelevisionFavorites/#/golden" component={Golden}/>
+    <Route path="TelevisionFavorites/#/thrones" component={Thrones}/>
+    <Route path="TelevisionFavorites/#/prince" component={Fresh}/>
+    <Route path="TelevisionFavorites/#/sopranos" component={Sopranos}/>
     <Route component={NoMatch}/>
     </Switch>
     </Router>

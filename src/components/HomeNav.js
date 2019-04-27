@@ -74,53 +74,53 @@ const HomeNav = () => {
     
         <Nav.Item>
             <Color1>
-          <Nav.Link className="nav-link" href="/atlanta" eventKey="link-1">Atlanta</Nav.Link>
+          <Nav.Link className="nav-link" href="TelevisionFavorites/#/atlanta" eventKey="link-1">Atlanta</Nav.Link>
           </Color1>
         </Nav.Item>
         <Nav.Item>
             <Color2>
-          <Nav.Link href="/twin-peaks" eventKey="link-2">Twin Peaks</Nav.Link>
+          <Nav.Link href="TelevisionFavorites/#/twin-peaks" eventKey="link-2">Twin Peaks</Nav.Link>
           </Color2>
         </Nav.Item>
    
         <Nav.Item>
             <Color3>
-          <Nav.Link eventKey="link-3" href="/martin">Martin</Nav.Link>
+          <Nav.Link eventKey="link-3" href="TelevisionFavorites/#/martin">Martin</Nav.Link>
           </Color3>
         </Nav.Item>
         <Nav.Item>
             <Color4>
-          <Nav.Link eventKey="link-4" href="/lucy">I Love Lucy</Nav.Link>
+          <Nav.Link eventKey="link-4" href="TelevisionFavorites/#/lucy">I Love Lucy</Nav.Link>
           </Color4>
         </Nav.Item>
         <Nav.Item>
             <Color5>
-          <Nav.Link eventKey="link-5" href="/wire">The Wire</Nav.Link>
+          <Nav.Link eventKey="link-5" href="TelevisionFavorites/#/wire">The Wire</Nav.Link>
           </Color5>
         </Nav.Item>
         <Nav.Item>
             <Color6>
-          <Nav.Link eventKey="link-6" href="/thrones">Game of Thrones</Nav.Link>
+          <Nav.Link eventKey="link-6" href="TelevisionFavorites/#/thrones">Game of Thrones</Nav.Link>
           </Color6>
         </Nav.Item>
         <Nav.Item>
             <Color7>
-          <Nav.Link eventKey="link-7" href="/sopranos">The Sopranos</Nav.Link>
+          <Nav.Link eventKey="link-7" href="TelevisionFavorites/#/sopranos">The Sopranos</Nav.Link>
           </Color7>
         </Nav.Item>
         <Nav.Item>
             <Color1>
-          <Nav.Link eventKey="link-8 " href="/golden">The Golden Girls</Nav.Link>
+          <Nav.Link eventKey="link-8 " href="TelevisionFavorites/#/golden">The Golden Girls</Nav.Link>
           </Color1>
           </Nav.Item>
           <Nav.Item>
               <Color2>
-          <Nav.Link eventKey="link-9" href="/prince">The Fresh Prince</Nav.Link>
+          <Nav.Link eventKey="link-9" href="TelevisionFavorites/#/prince">The Fresh Prince</Nav.Link>
           </Color2>
         </Nav.Item>
         <Nav.Item>
             <Color3>
-          <Nav.Link eventKey="link-10" href="/twilight">The Twilight Zone</Nav.Link>
+          <Nav.Link eventKey="link-10" href="TelevisionFavorites/#/twilight">The Twilight Zone</Nav.Link>
           </Color3>
         </Nav.Item>
       </Nav>
