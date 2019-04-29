@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/TelevisionFavorites/static/media/Atlantabackdrop.f2d0b9b9.jpg"
   },
   {
-    "revision": "1e9da4cda282fb8cbbe3",
+    "revision": "57eb7656447e96a431c5",
     "url": "/TelevisionFavorites/static/css/main.02e25025.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/TelevisionFavorites/static/media/backdroptwin.c178573f.jpg"
   },
   {
-    "revision": "1e9da4cda282fb8cbbe3",
-    "url": "/TelevisionFavorites/static/js/main.0ae83eab.chunk.js"
+    "revision": "57eb7656447e96a431c5",
+    "url": "/TelevisionFavorites/static/js/main.90509123.chunk.js"
   },
   {
     "revision": "6283c46913f9c94c7865c3e0757f4da3",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/TelevisionFavorites/static/media/gotbackdrop.bab375a2.jpg"
   },
   {
-    "revision": "08ad2db525ef509c50483d22d639206a",
+    "revision": "a3c675df22ff069cead4b2fa102cbaad",
     "url": "/TelevisionFavorites/index.html"
   }
 ];
