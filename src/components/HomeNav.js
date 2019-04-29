@@ -74,12 +74,12 @@ const HomeNav = () => {
     
         <Nav.Item>
             <Color1>
-          <Nav.Link className="nav-link" href="/#/atlanta" eventKey="link-1">Atlanta</Nav.Link>
+          <Nav.Link className="nav-link" href="/atlanta" eventKey="link-1">Atlanta</Nav.Link>
           </Color1>
         </Nav.Item>
         <Nav.Item>
             <Color2>
-          <Nav.Link href="/#/twin-peaks" eventKey="link-2">Twin Peaks</Nav.Link>
+          <Nav.Link href="/twin-peaks" eventKey="link-2">Twin Peaks</Nav.Link>
           </Color2>
         </Nav.Item>
    

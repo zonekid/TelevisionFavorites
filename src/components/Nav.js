@@ -37,7 +37,7 @@ const NavBar = () => {
     <Nav className="mr-auto">
       <Nav.Link href="/">Home</Nav.Link>
       <Nav.Link href="/#/lucy">I Love Lucy</Nav.Link>
-      <Nav.Link href="//#/twin-peaks">Twin Peaks</Nav.Link>
+      <Nav.Link href="/#/twin-peaks">Twin Peaks</Nav.Link>
       <Nav.Link href="/#/twilight">The Twilight Zone</Nav.Link>
       <Nav.Link href="/#/atlanta">Atlanta</Nav.Link>
       <Nav.Link href="/#/golden">The Golden Girls</Nav.Link>
