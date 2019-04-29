@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Link, Switch } from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import {Home} from './components/Home';
 import TwinPeaks from './components/TwinPeaks';
