@@ -70,7 +70,7 @@ const HomeNav = () => {
     
    
         <Styles>    
-        <Nav className="justify-content-center" activeKey="/#/home">
+        <Nav className="justify-content-center" activeKey="/home">
     
         <Nav.Item>
             <Color1>
