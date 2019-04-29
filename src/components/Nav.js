@@ -46,8 +46,7 @@ const NavBar = () => {
       <Nav.Link href="TelevisionFavorites/#/sopranos">The Sopranos</Nav.Link>
       <Nav.Link href="TelevisionFavorites/#/martin">Martin</Nav.Link>
       <Nav.Link href="TelevisionFavorites/#/prince">The Fresh Prince</Nav.Link>
-    </Nav>TelevisionFavorites/#/
-    TelevisionFavorites/#/
+    </Nav>
   </Navbar.Collapse>
   </Container>
 </Navbar>
