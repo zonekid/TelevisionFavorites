@@ -74,7 +74,7 @@ const HomeNav = () => {
     
         <Nav.Item>
             <Color1>
-          <Nav.Link className="nav-link" href="/atlanta" eventKey="link-1">Atlanta</Nav.Link>
+          <Nav.Link className="nav-link" href="atlanta" eventKey="link-1">Atlanta</Nav.Link>
           </Color1>
         </Nav.Item>
         <Nav.Item>
@@ -85,7 +85,7 @@ const HomeNav = () => {
    
         <Nav.Item>
             <Color3>
-          <Nav.Link eventKey="link-3" href="/martin">Martin</Nav.Link>
+          <Nav.Link eventKey="link-3" href="martin">Martin</Nav.Link>
           </Color3>
         </Nav.Item>
         <Nav.Item>
