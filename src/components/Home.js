@@ -33,7 +33,7 @@ padding-top: 50px;
 `
 
 export const Home = () => (
-<div style={{backgroundColor:'#8CE9FF', paddingBottom: 200}}>
+<div style={{backgroundColor:`#8ce9ff`, backgroundSize: 'cover', backgroundPosition: 'center', paddingBottom: 350}}>
     <HomeTitle>
     <span style={{ color: '#F53320' }}>m</span>
     <span style={{ color: '#0653F9' }}>a</span>
