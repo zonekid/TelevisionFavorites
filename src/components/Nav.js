@@ -23,7 +23,7 @@ const NavBar = () => {
         <NavStyles>
 <Navbar bg="light" variant="light" expand="lg">
 <Container>
-  <Navbar.Brand href="/"> <img
+  <Navbar.Brand href="#/"> <img
         src={remote}
         width="50"
         height="50"
