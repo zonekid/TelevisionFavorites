@@ -21,6 +21,10 @@ letter-spacing: 7.73px;
 text-align: center;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);
 padding-top: 35px;
+@media (max-width: 575px) {
+    font-size: 13px;
+    letter-spacing: 5.73px;
+}
 
 `
 
@@ -61,7 +65,7 @@ console.log(info.networks[0].name)
 
         return ( 
         
-        <div style={{backgroundImage:`url(${Atlantaback})`, backgroundSize: 'cover', backgroundPosition: 'center', paddingBottom: 100}}>
+        <div style={{backgroundImage:`url(${Atlantaback})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center', paddingBottom: 100}}>
 
 <NavBar/>
 <Row>

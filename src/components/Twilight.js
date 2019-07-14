@@ -21,7 +21,10 @@ text-shadow: 0 2px 4px rgba(0,0,0,0.50);
 padding-top: 35px;
 letter-spacing: 8.7px;
 text-align: center;
-
+@media (max-width: 575px) {
+    font-size: 13px;
+    letter-spacing: 5.73px;
+}
 `
 
 const Rectangle = styled.div `
