@@ -6,6 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Atlantaback from '../assets/Atlantabackdrop.jpg';
+import './font.css';
 
 const Pic = styled.div`
 text-align:center;
@@ -14,7 +15,7 @@ padding-bottom: 60px;
 `
 
 const Summary = styled.p `
-font-family: ComicSansMS-Bold;
+font-family: ComicBold;
 font-size: 16px;
 color: #FBF0D0;
 letter-spacing: 7.73px;

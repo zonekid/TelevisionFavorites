@@ -7,10 +7,11 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
+import './font.css';
 
 const NavStyles = styled.div `
 .nav-link {
-    font-family: KidsCorner-Regular;
+    font-family: KidsReg;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);
 text-decoration: underline;
 font-size: 18px;

@@ -5,12 +5,12 @@ import rugrattv from '../assets/rugrattv.png';
 import Image from 'react-bootstrap/Image'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-
+import './font.css';
 
 const HomeTitle = styled.h1`
 text-transform: uppercase;
 text-align: center;
-font-family: KidsCorner-Regular;
+font-family: KidsReg;
 font-size: 59px;
 letter-spacing: 7.88px;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);
@@ -24,7 +24,7 @@ text-align: center;
 `
 
 const Disclosure = styled.p`
-font-family: KidsCorner-Regular;
+font-family: KidsReg;
 font-size: 12px;
 letter-spacing: 7.88px;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);

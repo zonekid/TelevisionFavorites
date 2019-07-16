@@ -6,6 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Goldenback from '../assets/goldengirlsback.jpg';
+import './font.css';
 
 const Pic = styled.div`
 text-align:center;
@@ -15,7 +16,7 @@ padding-bottom: 60px;
 
 const Summary = styled.p `
 padding-top: 35px;
-font-family: LucidaGrande-Bold;
+font-family: LucidaBold;
 font-size: 16px;
 color: #FDF508;
 letter-spacing: 7.73px;

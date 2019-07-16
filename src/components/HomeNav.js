@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import Nav from 'react-bootstrap/Nav';
-
+import './font.css';
 
 const Styles = styled.div`
-font-family: KidsCorner-Regular;
+font-family: KidsReg;
 font-size: 34px; 
 letter-spacing: 7.87px;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);

@@ -1,0 +1,71 @@
+@font-face {
+    font-family: ComicBold;
+    src: url(../fonts/ComicSansMSBold.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: LucidaBold;
+    src: url(../fonts/LucidaGrande.ttc);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: KidsReg;
+    src: url(../fonts/KidsCornerRegular.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Chantilly;
+    src: url(../fonts/chantillyserialextraboldregular.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Mobster;
+    src: url(../fonts/Mobsters.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Game;
+    src: url(../fonts/GameofThrones.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Twil;
+    src: url(../fonts/twilight.ttf);
+    font-weight:normal;
+}
+
+@font-face {
+    font-family: Typer;
+    src: url(../fonts/AmericanTypewriter.ttc);
+    font-weight:normal;
+}
+
+
+
+
+
+@font-face {font-family: "Hiragino Sans GB3";
+    src: url("//db.onlinewebfonts.com/t/3b2646a48566403a55f62ceddbecbe18.eot");
+    src: url("//db.onlinewebfonts.com/t/3b2646a48566403a55f62ceddbecbe18.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/3b2646a48566403a55f62ceddbecbe18.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/3b2646a48566403a55f62ceddbecbe18.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/3b2646a48566403a55f62ceddbecbe18.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/3b2646a48566403a55f62ceddbecbe18.svg#Hiragino Sans GB") format("svg");
+}
+
+
+@font-face {font-family: "Hiragino Sans GB";
+    src: url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.eot");
+    src: url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.svg#Hiragino Sans GB") format("svg");
+  }
+  

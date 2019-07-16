@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-
+import './font.css';
 
 const Pic = styled.div`
 text-align:center;
@@ -14,7 +14,7 @@ padding-bottom: 60px;
 `
 
 const Summary = styled.p `
-font-family: Chantilly-Serial-ExtraBold-Regular;
+font-family: Chantilly;
 font-size: 16px;
 color: #FFFFFF;
 letter-spacing: 7.73px;

@@ -6,6 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import twilightback from '../assets/twlightback2.jpg';
+import './font.css';
 
 const Pic = styled.div`
 text-align:center;
@@ -14,7 +15,7 @@ padding-bottom: 60px;
 `
 
 const Summary = styled.p `
-font-family: TwyliteZoneBook;
+font-family: Twil;
 font-size: 18px;
 color: #FEFEFE;
 text-shadow: 0 2px 4px rgba(0,0,0,0.50);
